@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi!👋 I'm Putri Innayah</h1>
-  <p>A passionate Informatic's Student currently exploring the world of Data.</p>
+  <p>An Informatic's Student with strong interest in Data and is currently exploring the world of Data.</p>
 </div>
 
 ## Connect with Me
